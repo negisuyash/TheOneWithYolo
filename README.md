@@ -30,5 +30,5 @@ pip install tensorflow
 pip install numpy
 pip install matplotlib
 ```
-As <b>OpenCV</b> is not directly packaged for Windows, So we need use a Unofficial Binary Distribution of OpenCV.<vr>
+As <b>OpenCV</b> is not directly packaged for Windows, So we need use a [Unofficial Binary Distribution](https://www.lfd.uci.edu/~gohlke/pythonlibs/) of OpenCV.<vr><br>
 If you are not using windows, please go ahead and install it like rest.
