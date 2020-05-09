@@ -3,7 +3,9 @@ Using you only look once technique by employing TF version of DarkNet. This is l
 
 
 
- 
+
+
 made a demo of this [video](https://youtu.be/NyLF8nHIquM) from youtube (FYI: I don't claim ownership of this video)
 
 <p align="center"> <img src="demo.gif"/> </p>
+
