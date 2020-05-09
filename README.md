@@ -9,12 +9,12 @@ Using you only look once technique by employing TF version of DarkNet. This is l
 
 <p align="center"> <img src="demo.gif" width="800" height="300" /> </p>
 
-## Pre-Trained Weights
+### Pre-Trained Weights
 
 For getting pretrained weights, click [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU).<br>
 You can also download weights from [pjreddie](https://pjreddie.com/darknet/yolo/), but some weight are not compatible with DarkFlow.
 
-### Dependencies
+## Dependencies
 
 * Cython (as original library was written in C)
 * OpenCV
