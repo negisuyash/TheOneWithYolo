@@ -22,6 +22,8 @@ You can also download weights from [pjreddie](https://pjreddie.com/darknet/yolo/
 * Numpy
 * MatplotLib
 
+_note_: I have used Python 3.6 for this, and Python & pip are already configured in my system. You can also use Anaconda for this project.
+
 ```bash
 pip install cython
 pip install tensorflow
