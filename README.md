@@ -9,7 +9,10 @@ made a demo of this [video](https://youtu.be/NyLF8nHIquM) from youtube (FYI: I d
 
 <p align="center"> <img src="demo.gif" style="width: 800px; height: 500px;" /> </p>
 
-For getting pretrained weights, click [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU)
+## Pre-Trained Weights
+
+For getting pretrained weights, click [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU)<br>
+You can also download weights from [pjreddie](https://pjreddie.com/darknet/yolo/), but some weight are not compatible with DarkFlow.
 
 ## Dependencies
 
