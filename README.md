@@ -9,3 +9,5 @@ made a demo of this [video](https://youtu.be/NyLF8nHIquM) from youtube (FYI: I d
 
 <p align="center"> <img src="demo.gif"/> </p>
 
+For getting pretrained weights, click [here](https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU)
+
